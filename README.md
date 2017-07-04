@@ -27,7 +27,8 @@ Most of server code resides in [Server/winsck.frm](Server/winsck.frm).
 - Shutdown/Restart Unused System
 
 # Spotlight 
-I can find just 4 screenshots, I am adding them.
+I could find just 4 screenshots, I am adding them here.
+
 Server:
 ![Server](media/m_server.jpg)
 
