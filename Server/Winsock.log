@@ -1,0 +1,9 @@
+Line 31: Class MSComctlLib.TabStrip of control TabStrip1 was not a loaded control class.
+Line 617: Class MSComctlLib.ImageList of control ImageList1 was not a loaded control class.
+Line 924: Class MSComctlLib.ListView of control lvwDB was not a loaded control class.
+Line 1353: Class MSComctlLib.ListView of control uDb was not a loaded control class.
+Line 1425: Class MSComctlLib.ListView of control lvwPrice was not a loaded control class.
+Line 1537: Class MSComctlLib.ListView of control lvwToken was not a loaded control class.
+Line 1566: Class MSComctlLib.ListView of control lvwTime was not a loaded control class.
+Line 1891: Class MSComctlLib.ListView of control lvwAdmins was not a loaded control class.
+Line 2372: Class MSComctlLib.ListView of control lvwPrinters was not a loaded control class.

@@ -1,0 +1,10 @@
+[History]
+1=#P0#=mb	#P1#=DrawCaption	#P2#=MServer/chameleonButton/DrawCaption	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20130608022714	#P7#=0	#P8#=3	.
+2=#P0#=mb	#P1#=OverTimer_Timer	#P2#=MServer/chameleonButton/OverTimer_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20130608022603	#P7#=0	#P8#=1525	.
+3=#P0#=mb	#P1#=aCalc	#P2#=MServer/cWinsock/aCalc	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20130608022546	#P7#=0	#P8#=-1	.
+4=#P0#=mb	#P1#=Form_Load	#P2#=MServer/cWinsock/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20130608022411	#P7#=0	#P8#=6	.
+5=#P0#=mb	#P1#=disALL_Click	#P2#=MServer/cWinsock/disALL_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20130608022217	#P7#=0	#P8#=-1	.
+6=#P0#=mb	#P1#=SendR	#P2#=MServer/cCheck/SendR	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20130608021844	#P7#=0	#P8#=3	.
+7=#P0#=mb	#P1#=Check2_Click	#P2#=MServer/cWinsock/Check2_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20130608021747	#P7#=0	#P8#=-1	.
+8=#P0#=mb	#P1#=sock1_DataArrival	#P2#=MServer/cWinsock/sock1_DataArrival	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20130621142346	#P7#=0	#P8#=38	.
+9=#P0#=mb	#P1#=Mob_Change	#P2#=MServer/cWinsock/Mob_Change	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20130608021231	#P7#=0	#P8#=1	.
