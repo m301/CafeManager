@@ -1,0 +1,4 @@
+frmTestChameleon = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+chameleonButton = 0, 0, 0, 0, C, 25, 25, 899, 476, C
+frmAbout = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmNag = 0, 0, 0, 0, C, 0, 0, 0, 0, C
