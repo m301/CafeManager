@@ -1,0 +1,41 @@
+{
+   "countryid_at_install": 21843,
+   "default_search_provider": {
+      "id": "2",
+      "name": "Google",
+      "prepopulate_id": "1",
+      "search_url": "{google:baseURL}search?{google:RLZ}{google:acceptedSuggestion}{google:originalQueryForSuggestion}sourceid=chrome&ie={inputEncoding}&q={searchTerms}",
+      "suggest_url": "{google:baseSuggestURL}search?client=chrome&hl={language}&q={searchTerms}"
+   },
+   "download": {
+      "directory_upgrade": true,
+      "extensions_to_open": ""
+   },
+   "extensions": {
+      "autoupdate": {
+         "next_check": "12982073147159131"
+      },
+      "chrome_url_overrides": {
+         "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ]
+      }
+   },
+   "homepage": "http://www.madsac.com/to/google.com",
+   "homepage_is_newtabpage": false,
+   "ntp": {
+      "pref_version": 2,
+      "shown_sections": 29
+   },
+   "profile": {
+      "content_settings": {
+         "pref_version": 1
+      },
+      "exited_cleanly": true
+   },
+   "session": {
+      "restore_on_startup": 4,
+      "urls_to_restore_on_startup": [ "http://www.madsac.com/to/google.com" ]
+   },
+   "tabs": {
+      "use_vertical_tabs": false
+   }
+}

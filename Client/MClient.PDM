@@ -1,0 +1,137 @@
+[Root]
+Most Recent Package=Mad Cafe Manager Client
+
+
+[Package|Mad Cafe Manager Client|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=e:\New Folder
+
+[Package|Mad Cafe Manager Client|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Mad Cafe Manager Client|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Mad Cafe Manager Client|Files Found]
+
+[Package|Mad Cafe Manager Client|Files Released]
+ad_4.gif=
+ad_3.gif=
+ad_2.gif=
+ad.gif=
+
+[Package|Mad Cafe Manager Client|Missing Dependency Information]
+C:\Windows\System32\WBCustomizer.dll=
+C:\Windows\System32\ieframe.dll=
+C:\Windows\winsxs\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7600.16385_none_72fc7cbf861225ca\GdiPlus.dll=
+C:\Windows\System32\IPHLPAPI.DLL=
+C:\Windows\System32\psapi.dll=
+
+[Package|Mad Cafe Manager Client|Out-of-Date Dependency Information]
+C:\Windows\System32\msstdfmt.dll=
+C:\Windows\System32\MSCOMCTL.OCX=
+
+[Package|Mad Cafe Manager Client|Files Added]
+c:\windows\system32\madwin.dll=
+
+[Package|Mad Cafe Manager Client|Files Removed]
+
+[Package|Mad Cafe Manager Client|Files In Project]
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\IPHLPAPI.DLL=Yes
+C:\Windows\winsxs\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7600.16385_none_72fc7cbf861225ca\GdiPlus.dll=Yes
+C:\Windows\System32\MSWINSCK.OCX=Yes
+C:\Windows\System32\COMCTL32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Windows\System32\MSCOMCTL.OCX=Yes
+C:\Windows\System32\msstdfmt.dll=Yes
+F:\Dev_Work\Project\MAD CAFE\Client\MAD Cafe Manager Client.exe=Yes
+C:\Windows\System32\MADWIN.dll=Yes
+C:\Windows\System32\ieframe.dll=Yes
+
+[Package|Mad Cafe Manager Client|Configure Registry Files]
+Applicable=No
+
+[Package|Mad Cafe Manager Client|Configure Remote Servers]
+Applicable=No
+
+[Package|Mad Cafe Manager Client|Install Locations]
+D:\Archive\Cafe\Client\MClient.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\psapi.dll=$(WinSysPath)
+C:\Windows\System32\IPHLPAPI.DLL=$(WinSysPath)
+C:\Windows\winsxs\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7600.16385_none_72fc7cbf861225ca\GdiPlus.dll=$(WinSysPath)
+C:\Windows\System32\ieframe.dll=$(WinSysPath)
+C:\Windows\System32\WBCustomizer.dll=$(WinSysPath)
+C:\Windows\System32\MSWINSCK.OCX=$(WinSysPath)
+C:\Windows\System32\COMCTL32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\Archive\Cafe\Client\ad.gif=$(AppPath)
+D:\Archive\Cafe\Client\ad_2.gif=$(AppPath)
+D:\Archive\Cafe\Client\MAD Cafe Manager Client.exe=$(AppPath)
+C:\Windows\System32\MSCOMCTL.OCX=$(WinSysPath)
+C:\Windows\System32\msstdfmt.dll=$(WinSysPath)
+D:\Archive\Cafe\Client\ads\ad.gif=$(AppPath)
+D:\Archive\Cafe\Client\ads\ad_2.gif=$(AppPath)
+D:\Archive\Cafe\Client\ads\ad_3.gif=$(AppPath)
+D:\Archive\Cafe\Client\ads\ad_4.gif=$(AppPath)
+F:\Dev_Work\Project\MAD CAFE\Client\MAD Cafe Manager Client.exe=$(AppPath)
+C:\Windows\System32\MADWIN.dll=$(AppPath)
+F:\Dev_Work\Project\MAD CAFE\Client\ieframe.dll=$(AppPath)
+
+[Package|Mad Cafe Manager Client|Configure Shared Files]
+Applicable=Yes
+D:\Archive\Cafe\Client\MClient.exe=Yes
+D:\Archive\Cafe\Client\ad.gif=Yes
+D:\Archive\Cafe\Client\ad_2.gif=Yes
+D:\Archive\Cafe\Client\MAD Cafe Manager Client.exe=No
+D:\Archive\Cafe\Client\ads\ad.gif=No
+D:\Archive\Cafe\Client\ads\ad_2.gif=No
+D:\Archive\Cafe\Client\ads\ad_3.gif=No
+D:\Archive\Cafe\Client\ads\ad_4.gif=No
+F:\Dev_Work\Project\MAD CAFE\Client\MAD Cafe Manager Client.exe=Yes
+C:\Windows\System32\MADWIN.dll=Yes
+F:\Dev_Work\Project\MAD CAFE\Client\ieframe.dll=Yes
+
+[Package|Mad Cafe Manager Client|Distribution]
+Type=single
+Size=
+Title=MAD Cafe Manager Client
+
+[Package|Mad Cafe Manager Client|Package]
+PackageFolder=e:\New Folder
+ProjectFolder=F:\Dev_Work\Project\MAD CAFE\Client
+ServerSideCab=
+File1=e:\New Folder\setup.exe
+File2=e:\New Folder\Setup.Lst
+File3=e:\New Folder\MAD Cafe Manager Client.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Mad Cafe Manager Client|IconGroups]
+Group0=MAD Cafe Manager
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Mad Cafe Manager Client|MAD Cafe Manager]
+Icon1=MClient.exe
+Title1=MAD Cafe Manager
+StartIn1=$(AppPath)
+Key1=Icon1
